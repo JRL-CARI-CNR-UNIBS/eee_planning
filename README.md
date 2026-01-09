@@ -2,7 +2,7 @@
 
 Paper under review.
 
-Visit the [page]().
+Visit the [page](https://jrl-cari-cnr-unibs.github.io/eee_planning/)).
 
 
 ## Acknowledgments
